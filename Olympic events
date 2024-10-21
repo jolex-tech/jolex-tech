@@ -1,0 +1,32 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Suya",
+    "price": 1500,
+    "product_description": "Grilled meat skewers, typically served as a snack or appetizer"
+  },
+  {
+    "product_id": 2,
+    "product_name": "Egusi",
+    "price": 2500,
+    "product_description": "Thick, flavorful stew made with ground melon seeds and leafy greens"
+  },
+  {
+    "product_id": 3,
+    "product_name": "Okro",
+    "price": 500,
+    "product_description": "A local delicacy made from beef"
+  },
+  {
+    "product_id": 4,
+    "product_name": "Jollof_rice",
+    "price": 2000,
+    "product_description": "Generally accepted delicacy"
+  },
+  {
+    "product_id": 5,
+    "product_name": "Beans",
+    "price": 3000,
+    "product_description": "A local delicacy made from beans"
+  }
+]
